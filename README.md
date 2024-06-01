@@ -23,3 +23,5 @@ Pharmacy Management: Manages medication inventory, prescriptions, dispensing, an
 Reporting and Analytics: Provides tools for generating reports on various aspects of hospital operations and analyzing data to improve efficiency and decision-making.
 
 Integration Capabilities: Integrates with other healthcare systems such as PACS (Picture Archiving and Communication System), HIS (Hospital Information System), and RIS (Radiology Information System) for seamless data exchange.
+![image](https://github.com/SATYAMSINGH0707/Hospital-management-nodejs-master/assets/97894680/667216c3-fce5-4fae-ab7b-5b29364d3db8)
+
